@@ -1,0 +1,17 @@
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\bin\Debug\net8.0\Publish.exe
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\bin\Debug\net8.0\Publish.deps.json
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\bin\Debug\net8.0\Publish.runtimeconfig.json
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\bin\Debug\net8.0\Publish.dll
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\bin\Debug\net8.0\Publish.pdb
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\obj\Debug\net8.0\Publish.csproj.AssemblyReference.cache
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\obj\Debug\net8.0\Publish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\obj\Debug\net8.0\Publish.AssemblyInfoInputs.cache
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\obj\Debug\net8.0\Publish.AssemblyInfo.cs
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\obj\Debug\net8.0\Publish.csproj.CoreCompileInputs.cache
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\obj\Debug\net8.0\Publish.csproj.CopyComplete
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\obj\Debug\net8.0\Publish.dll
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\obj\Debug\net8.0\refint\Publish.dll
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\obj\Debug\net8.0\Publish.pdb
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\obj\Debug\net8.0\Publish.genruntimeconfig.cache
+C:\Project\RabbitMq\4 Tutorial (Routing)\Publish\obj\Debug\net8.0\ref\Publish.dll

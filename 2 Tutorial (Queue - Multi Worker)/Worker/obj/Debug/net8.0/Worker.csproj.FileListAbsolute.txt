@@ -1,0 +1,17 @@
+C:\Project\RabbitMq\SecondTutorial\Worker\obj\Debug\net8.0\Worker.csproj.AssemblyReference.cache
+C:\Project\RabbitMq\SecondTutorial\Worker\obj\Debug\net8.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\RabbitMq\SecondTutorial\Worker\obj\Debug\net8.0\Worker.AssemblyInfoInputs.cache
+C:\Project\RabbitMq\SecondTutorial\Worker\obj\Debug\net8.0\Worker.AssemblyInfo.cs
+C:\Project\RabbitMq\SecondTutorial\Worker\obj\Debug\net8.0\Worker.csproj.CoreCompileInputs.cache
+C:\Project\RabbitMq\SecondTutorial\Worker\bin\Debug\net8.0\Worker.exe
+C:\Project\RabbitMq\SecondTutorial\Worker\bin\Debug\net8.0\Worker.deps.json
+C:\Project\RabbitMq\SecondTutorial\Worker\bin\Debug\net8.0\Worker.runtimeconfig.json
+C:\Project\RabbitMq\SecondTutorial\Worker\bin\Debug\net8.0\Worker.dll
+C:\Project\RabbitMq\SecondTutorial\Worker\bin\Debug\net8.0\Worker.pdb
+C:\Project\RabbitMq\SecondTutorial\Worker\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Project\RabbitMq\SecondTutorial\Worker\obj\Debug\net8.0\Worker.csproj.CopyComplete
+C:\Project\RabbitMq\SecondTutorial\Worker\obj\Debug\net8.0\Worker.dll
+C:\Project\RabbitMq\SecondTutorial\Worker\obj\Debug\net8.0\refint\Worker.dll
+C:\Project\RabbitMq\SecondTutorial\Worker\obj\Debug\net8.0\Worker.pdb
+C:\Project\RabbitMq\SecondTutorial\Worker\obj\Debug\net8.0\Worker.genruntimeconfig.cache
+C:\Project\RabbitMq\SecondTutorial\Worker\obj\Debug\net8.0\ref\Worker.dll

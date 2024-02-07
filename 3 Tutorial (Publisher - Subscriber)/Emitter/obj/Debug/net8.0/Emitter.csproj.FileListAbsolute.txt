@@ -1,0 +1,17 @@
+C:\Project\RabbitMq\ThirdTutorial\Emitter\bin\Debug\net8.0\Emitter.exe
+C:\Project\RabbitMq\ThirdTutorial\Emitter\bin\Debug\net8.0\Emitter.deps.json
+C:\Project\RabbitMq\ThirdTutorial\Emitter\bin\Debug\net8.0\Emitter.runtimeconfig.json
+C:\Project\RabbitMq\ThirdTutorial\Emitter\bin\Debug\net8.0\Emitter.dll
+C:\Project\RabbitMq\ThirdTutorial\Emitter\bin\Debug\net8.0\Emitter.pdb
+C:\Project\RabbitMq\ThirdTutorial\Emitter\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Project\RabbitMq\ThirdTutorial\Emitter\obj\Debug\net8.0\Emitter.csproj.AssemblyReference.cache
+C:\Project\RabbitMq\ThirdTutorial\Emitter\obj\Debug\net8.0\Emitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\RabbitMq\ThirdTutorial\Emitter\obj\Debug\net8.0\Emitter.AssemblyInfoInputs.cache
+C:\Project\RabbitMq\ThirdTutorial\Emitter\obj\Debug\net8.0\Emitter.AssemblyInfo.cs
+C:\Project\RabbitMq\ThirdTutorial\Emitter\obj\Debug\net8.0\Emitter.csproj.CoreCompileInputs.cache
+C:\Project\RabbitMq\ThirdTutorial\Emitter\obj\Debug\net8.0\Emitter.csproj.CopyComplete
+C:\Project\RabbitMq\ThirdTutorial\Emitter\obj\Debug\net8.0\Emitter.dll
+C:\Project\RabbitMq\ThirdTutorial\Emitter\obj\Debug\net8.0\refint\Emitter.dll
+C:\Project\RabbitMq\ThirdTutorial\Emitter\obj\Debug\net8.0\Emitter.pdb
+C:\Project\RabbitMq\ThirdTutorial\Emitter\obj\Debug\net8.0\Emitter.genruntimeconfig.cache
+C:\Project\RabbitMq\ThirdTutorial\Emitter\obj\Debug\net8.0\ref\Emitter.dll

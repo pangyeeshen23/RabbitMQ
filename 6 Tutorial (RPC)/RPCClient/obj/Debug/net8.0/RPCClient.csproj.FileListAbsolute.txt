@@ -1,0 +1,17 @@
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\bin\Debug\net8.0\RPCClient.exe
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\bin\Debug\net8.0\RPCClient.deps.json
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\bin\Debug\net8.0\RPCClient.runtimeconfig.json
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\bin\Debug\net8.0\RPCClient.dll
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\bin\Debug\net8.0\RPCClient.pdb
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\obj\Debug\net8.0\RPCClient.csproj.AssemblyReference.cache
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\obj\Debug\net8.0\RPCClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\obj\Debug\net8.0\RPCClient.AssemblyInfoInputs.cache
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\obj\Debug\net8.0\RPCClient.AssemblyInfo.cs
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\obj\Debug\net8.0\RPCClient.csproj.CoreCompileInputs.cache
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\obj\Debug\net8.0\RPCClient.csproj.CopyComplete
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\obj\Debug\net8.0\RPCClient.dll
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\obj\Debug\net8.0\refint\RPCClient.dll
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\obj\Debug\net8.0\RPCClient.pdb
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\obj\Debug\net8.0\RPCClient.genruntimeconfig.cache
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCClient\obj\Debug\net8.0\ref\RPCClient.dll

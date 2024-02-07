@@ -1,0 +1,17 @@
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\bin\Debug\net8.0\RPCServer.exe
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\bin\Debug\net8.0\RPCServer.deps.json
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\bin\Debug\net8.0\RPCServer.runtimeconfig.json
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\bin\Debug\net8.0\RPCServer.dll
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\bin\Debug\net8.0\RPCServer.pdb
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\obj\Debug\net8.0\RPCServer.csproj.AssemblyReference.cache
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\obj\Debug\net8.0\RPCServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\obj\Debug\net8.0\RPCServer.AssemblyInfoInputs.cache
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\obj\Debug\net8.0\RPCServer.AssemblyInfo.cs
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\obj\Debug\net8.0\RPCServer.csproj.CoreCompileInputs.cache
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\obj\Debug\net8.0\RPCServer.csproj.CopyComplete
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\obj\Debug\net8.0\RPCServer.dll
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\obj\Debug\net8.0\refint\RPCServer.dll
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\obj\Debug\net8.0\RPCServer.pdb
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\obj\Debug\net8.0\RPCServer.genruntimeconfig.cache
+C:\Project\RabbitMq\6 Tutorial (RPC)\RPCServer\obj\Debug\net8.0\ref\RPCServer.dll

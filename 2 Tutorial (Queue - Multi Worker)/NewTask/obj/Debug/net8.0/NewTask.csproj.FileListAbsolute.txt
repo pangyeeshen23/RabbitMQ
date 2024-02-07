@@ -1,0 +1,17 @@
+C:\Project\RabbitMq\SecondTutorial\NewTask\bin\Debug\net8.0\NewTask.exe
+C:\Project\RabbitMq\SecondTutorial\NewTask\bin\Debug\net8.0\NewTask.deps.json
+C:\Project\RabbitMq\SecondTutorial\NewTask\bin\Debug\net8.0\NewTask.runtimeconfig.json
+C:\Project\RabbitMq\SecondTutorial\NewTask\bin\Debug\net8.0\NewTask.dll
+C:\Project\RabbitMq\SecondTutorial\NewTask\bin\Debug\net8.0\NewTask.pdb
+C:\Project\RabbitMq\SecondTutorial\NewTask\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Project\RabbitMq\SecondTutorial\NewTask\obj\Debug\net8.0\NewTask.csproj.AssemblyReference.cache
+C:\Project\RabbitMq\SecondTutorial\NewTask\obj\Debug\net8.0\NewTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\RabbitMq\SecondTutorial\NewTask\obj\Debug\net8.0\NewTask.AssemblyInfoInputs.cache
+C:\Project\RabbitMq\SecondTutorial\NewTask\obj\Debug\net8.0\NewTask.AssemblyInfo.cs
+C:\Project\RabbitMq\SecondTutorial\NewTask\obj\Debug\net8.0\NewTask.csproj.CoreCompileInputs.cache
+C:\Project\RabbitMq\SecondTutorial\NewTask\obj\Debug\net8.0\NewTask.csproj.CopyComplete
+C:\Project\RabbitMq\SecondTutorial\NewTask\obj\Debug\net8.0\NewTask.dll
+C:\Project\RabbitMq\SecondTutorial\NewTask\obj\Debug\net8.0\refint\NewTask.dll
+C:\Project\RabbitMq\SecondTutorial\NewTask\obj\Debug\net8.0\NewTask.pdb
+C:\Project\RabbitMq\SecondTutorial\NewTask\obj\Debug\net8.0\NewTask.genruntimeconfig.cache
+C:\Project\RabbitMq\SecondTutorial\NewTask\obj\Debug\net8.0\ref\NewTask.dll

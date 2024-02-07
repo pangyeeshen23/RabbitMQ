@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JRz6GnZcW1QMnj+uTfNlqey+Kx5B0e4FdELSur3QdvavPQDa5xl7xkFBY2mfIuH/a85XXl9Gif2opE+u2p22Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\RabbitMq\\4 Tutorial (Routing)\\Receiver\\Receiver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yeeshen.pang_simplet\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\yeeshen.pang_simplet\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\yeeshen.pang_simplet\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
